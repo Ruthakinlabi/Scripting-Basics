@@ -1,4 +1,4 @@
-# Shellcripting Practice 
+# 🎗 Shell-scripting Practice 
 
 This repository documents my journey of learning shell scripting step-by-step.  
 Each script focuses on a specific concept, from basic commands to advanced automation.
